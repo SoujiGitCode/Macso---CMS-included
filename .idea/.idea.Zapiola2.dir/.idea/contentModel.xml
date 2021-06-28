@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\laragon\www\Zapiola2" t="IncludeFlat">
+      <e p="zapiola\node_modules\@types" t="IncludeRecursive">
+        <e p="minimatch" t="IncludeRecursive" />
+        <e p="node" t="IncludeRecursive" />
+      </e>
+      <e p="zapiola\node_modules\axios" t="IncludeRecursive" />
+      <e p="zapiola\node_modules\cross-env" t="IncludeRecursive" />
+      <e p="zapiola\node_modules\laravel-mix" t="IncludeRecursive" />
+      <e p="zapiola\node_modules\lodash" t="IncludeRecursive" />
+      <e p="zapiola\node_modules\resolve-url-loader" t="IncludeRecursive" />
+      <e p="zapiola\node_modules\sass" t="IncludeRecursive" />
+      <e p="zapiola\node_modules\sass-loader" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\reina\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\reina\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+  </component>
+</project>
